@@ -85,4 +85,4 @@ logName="projects/'$PROJECT_ID'/logs/cloudaudit.googleapis.com%2Factivity"' \
   --project=$PROJECT_ID
 
 
-echo -e "\033[0;92m\033[1mClick here\033[0m 👉🏻 https://console.cloud.google.com/appengine?project="
+echo -e "\033[0;92m\033[1mClick here\033[0m ➡️ https://console.cloud.google.com/appengine?project="
